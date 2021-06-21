@@ -1,7 +1,11 @@
 .container{
     margin-top: 24px;
 }
-
+img {
+    border-radius: 50%;
+    height: 160px;
+    margin-bottom: 24px;
+  }
 
 
 
